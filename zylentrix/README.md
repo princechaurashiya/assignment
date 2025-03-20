@@ -1,15 +1,22 @@
 # zylentrix
 
-A new Flutter project.
+# Flutter API Fetch Assignment
 
-## Getting Started
+# Project Setup
+1. Clone the repository:
+2. Install dependencies:
+3. Run the app:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Features
+MVVM Architecture
+Provider for State Management
+Named Routing for Scalability
+ListView Display – Shows post titles in a scrollable list
+Error Handling – Displays error messages when API fails
+Loading Indicator – Shows CircularProgressIndicator while fetching data
+Navigation with Routing – Uses routes.dart for scalability  
+ 
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
